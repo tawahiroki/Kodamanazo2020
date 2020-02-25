@@ -8,13 +8,20 @@ input.button1{
   height: 100px;
   top:630px;
   float:left;
-  
+
 }
 th {
     width:30px;
     height:30px;
     background-color:grey;
+  }
+
 td {
     width:30px;
     height:30px;
+}
+
+.button1{
+  position:relative;
+  left:20px;
 }
